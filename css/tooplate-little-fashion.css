@@ -135,7 +135,6 @@ a:hover {
   background: var(--primary-color);
   color: var(--white-color);
 }
-
 /*---------------------------------------
   CUSTOM LINK               
 -----------------------------------------*/
@@ -727,6 +726,7 @@ section {
 .featured {
   background: var(--section-bg-color);
 }
+
 
 /*---------------------------------------
   ABOUT               
