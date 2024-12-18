@@ -806,7 +806,9 @@ url("../fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d") format("wo
 .bi-hdd::before { content: "\f412"; }
 .bi-headphones::before { content: "\f413"; }
 .bi-headset::before { content: "\f414"; }
-.bi-heart-fill::before { content: "\f415"; }
+.bi-heart-fill::before { 
+  content: "\f415"; 
+}
 .bi-heart-half::before { content: "\f416"; }
 .bi-heart::before { content: "\f417"; }
 .bi-heptagon-fill::before { content: "\f418"; }
