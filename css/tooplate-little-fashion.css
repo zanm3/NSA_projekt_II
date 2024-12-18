@@ -475,7 +475,10 @@ strong {
 .navbar-toggler .navbar-toggler-icon:after {
   top: 8px;
 }
-
+canvas{
+  width: 160px;
+  height: 100px;
+}
 /*---------------------------------------
   SITE HEADER              
 -----------------------------------------*/
