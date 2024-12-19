@@ -129,7 +129,7 @@ url("../fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d") format("wo
 .bi-badge-vr::before { content: "\f16d"; }
 .bi-badge-wc-fill::before { content: "\f16e"; }
 .bi-badge-wc::before { content: "\f16f"; }
-.bi-bag-check-fill::before { content: "\f170"; }
+.bi--check-fill::before { content: "\f170"; }
 .bi-bag-check::before { content: "\f171"; }
 .bi-bag-dash-fill::before { content: "\f172"; }
 .bi-bag-dash::before { content: "\f173"; }
