@@ -9,7 +9,7 @@ window.onload = function () {
     ctx.scale(scale, scale);  // Scale the context for high DPI
 
     // Adjust the transformation to flip and align for better resolution
-    ctx.scale(0.009, -0.009); // Scale down to fit the 400x400 canvas (smaller scale)
+    ctx.scale(0.0097, -0.0097); // Scale down to fit the 400x400 canvas (smaller scale)
 
     // Translate to the far left (adjust the -5000 value to position it to the left)
     ctx.translate(-100, -10700);  // Move the logo to the far left side of the canvas
